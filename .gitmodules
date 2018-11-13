@@ -1,0 +1,3 @@
+[submodule "Thesis-presentation"]
+	path = Thesis-presentation
+	url = git@github.com:vhsw/Thesis-presentation.git
